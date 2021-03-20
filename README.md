@@ -1,5 +1,5 @@
 # Lazy_Buddy
-Voice Assistant for Programmers
+A buddy  for busy programmers to help then in their day to day tasks with the help of voice assistant
 HackNITR
 
 Team Name- Newbies
