@@ -58,7 +58,10 @@ if  __name__=="__main__" :
             webbrowser.open("stackoverflow.com/")
 
         elif 'github' in query:
-            webbrowser.open("github.com")    
+            webbrowser.open("github.com")
+            
+       elif 'geeksforgeeks' in query:
+            webbrowser.open("geeksforgeeks.com")      
 
         elif 'leetcode' in query:
             webbrowser.open("leetcode.com")
